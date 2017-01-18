@@ -2,3 +2,5 @@ build/
 *.user
 *.qmlc
 *~
+icons/
+material-design-icons/
