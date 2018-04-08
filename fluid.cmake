@@ -37,7 +37,9 @@ set(FLUID_QRCS
   ${PWD}/icons/icons.qrc
   ${PWD}/src/imports/controls/icons.qrc
   ${PWD}/src/imports/controls/controls.qrc
+  ${PWD}/src/imports/controls-private/controls-private.qrc
   ${PWD}/src/imports/core/core.qrc
+  ${PWD}/src/imports/templates/templates.qrc
 )
 
 #vim: et sw=2

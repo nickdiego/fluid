@@ -1,0 +1,4 @@
+module Fluid.Templates
+typeinfo plugins.qmltypes
+
+Card 1.0 Card.qml

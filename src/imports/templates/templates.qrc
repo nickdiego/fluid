@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Fluid/Templates">
+        <file>Card.qml</file>
+        <file alias="qmldir">qmldir_noplugin</file>
+    </qresource>
+</RCC>

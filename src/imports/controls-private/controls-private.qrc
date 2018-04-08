@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/Fluid/Controls/Private">
+        <file>DateSelector.qml</file>
+        <file>TimeSelector.qml</file>
+        <file>YearSelector.qml</file>
+        <file alias="qmldir">qmldir_noplugin</file>
+        </qresource>
+</RCC>
