@@ -1,4 +1,4 @@
 [submodule "qbs-shared"]
 	path = qbs/shared
-	url = git://github.com/lirios/qbs-shared
+	url = git@github.com:nickdiego/qbs-shared.git
 	branch = master
